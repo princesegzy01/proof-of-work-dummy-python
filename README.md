@@ -6,7 +6,7 @@ This is sample implementation of the blockchain proof of work algorithm written 
 
 There exist a block which when hashed with a random seeds produced an output with a specific leading zeros.
 
-To run this code
+### To run this code
 
 `python proof-of-work.py`
 
